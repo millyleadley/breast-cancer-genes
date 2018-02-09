@@ -1,2 +1,4 @@
 # breast-cancer-genes
-Predicting survival outcome in breast cancer patients based on their gene expression
+
+A dark but topical subject of predicting survival outcome in breast cancer patients using their gene expression. Aimed to demonstrate the power of big data in advancing medicine to reach personalisation.
+ 
